@@ -1,0 +1,41 @@
+[
+  {
+    "name": "FAIZURRAHMAN IQBAL KHAN",
+    "email": "mr.fk232@gmail.com",
+    "address": "8-1-40/A/40, 7 Tombs Road Araaf Supermart Building",
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Shirt",
+        "price": 799
+      }
+    ],
+    "total": 799
+  },
+  {
+    "name": "FAIZURRAHMAN IQBAL KHAN",
+    "email": "mr.fk232@gmail.com",
+    "address": "8-1-40/A/40, 7 Tombs Road Araaf Supermart Building",
+    "items": [
+      {
+        "id": 2,
+        "name": "Jeans",
+        "price": 1599
+      }
+    ],
+    "total": 1599
+  },
+  {
+    "name": "FAIZURRAHMAN IQBAL KHAN",
+    "email": "mr.fk232@gmail.com",
+    "address": "8-1-40/A/40, 7 Tombs Road Araaf Supermart Building",
+    "items": [
+      {
+        "id": 2,
+        "name": "Jeans",
+        "price": 1599
+      }
+    ],
+    "total": 1599
+  }
+]
